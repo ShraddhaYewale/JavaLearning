@@ -7,7 +7,7 @@ public class Pyramid2 {
             for (int k = 1; k <= i; k++) {       // Stars (plus a space for shape)
                 System.out.print("* ");
             }
-            System.out.println();                // Next line
+            System.out.println();               // Next line
         }
     }
 }
